@@ -1,0 +1,4 @@
+RandomForest, CatBoost, LightGBM: https://www.kaggle.com/code/weirdanalyst/koa-m-s-1
+TabNet: https://www.kaggle.com/code/weirdanalyst/koa-m-s-tabnet
+Logistic Regression: https://www.kaggle.com/weirdanalyst/koa-m-s-logisticregr
+KNN: https://www.kaggle.com/weirdanalyst/koa-m-s-knn

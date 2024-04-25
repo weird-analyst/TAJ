@@ -1,0 +1,6 @@
+YOLOv8: https://www.kaggle.com/code/weirdanalyst/koa-yolov8-2
+MobileNetv2: https://www.kaggle.com/code/weirdanalyst/koa-mobilenetv2-2
+DenseNet: https://www.kaggle.com/code/weirdanalyst/koa-densenet-2
+ResNet50: https://www.kaggle.com/code/jiyyaaa/koa-resnet50-2
+EfficientNet: https://www.kaggle.com/code/jiyyaaa/koa-efficientnet-2
+CvT: https://www.kaggle.com/code/weirdanalyst/koa-cvt-2

@@ -1,0 +1,7 @@
+This directory contains 4 notebooks:
+1) KOA_YOLOv8_preds: Notebook used to generate class probability predictions from fine tuned YOLOv8 model https://www.kaggle.com/code/weirdanalyst/koa-yolov8-preds
+2) KOA_DenseNet_preds: Notebook used to generate class probability predictions from fine tuned DenseNet model https://www.kaggle.com/code/weirdanalyst/koa-densenet-preds
+3) Fork of KOA_MobileNetv2: Generate class probability predictions and fine tune MobileNet model https://www.kaggle.com/code/weirdanalyst/fork-of-koa-mobilenetv2
+4) Fork of KOA_MobileNetv2_2: Generate class probability predictions and fine tune MobileNet model https://www.kaggle.com/code/weirdanalyst/fork-of-koa-mobilenetv2-2
+
+These notebooks generate .csv files which make the training process of the metalearners much easier

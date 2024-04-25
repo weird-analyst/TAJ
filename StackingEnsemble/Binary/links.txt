@@ -1,0 +1,4 @@
+RandomForest + CatBoost + LightGBM: https://www.kaggle.com/code/weirdanalyst/koa-b-s-1
+KNN: https://www.kaggle.com/weirdanalyst/koa-b-s-knn
+XGBoost: https://www.kaggle.com/code/jiyyaaa/koa-b-s-xgboost
+TabNet: https://www.kaggle.com/code/weirdanalyst/koa-b-s-tabnet

@@ -1,0 +1,12 @@
+Original Dataset: https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity
+
+Preprocessing Notebooks (Kaggle Links)
+1) Preprocess originial dataset by Segmentation & Equalization into Multiclass dataset
+https://www.kaggle.com/code/weirdanalyst/preprocessing-koa-dataset
+
+2) Preprocess Multiclass Dataset into Binary Classification Dataset
+https://www.kaggle.com/code/weirdanalyst/preprocessing-koa-dataset-binary
+
+The preprocessed datasets are avalaible at:
+1) Multiclass: https://drive.google.com/file/d/131o5u3DAI9B2dGVAVr56L9D_KENF7TX8/view?usp=sharing
+2) Binary: https://drive.google.com/file/d/1QCsqpDs4NlAtdsjy5uE7HfPOnMgeVkBN/view?usp=sharing
